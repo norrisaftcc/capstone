@@ -1,2 +1,3 @@
 this is a test
-modified remotely
+DELETED
+modified locally
